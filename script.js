@@ -4,3 +4,5 @@ function toggleMenu() {
     menu.classList.toggle("open");
     icon.classList.toggle("open");
   }
+
+document.body.style.zoom="85%"
