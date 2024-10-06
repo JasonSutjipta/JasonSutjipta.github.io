@@ -5,4 +5,4 @@ function toggleMenu() {
     icon.classList.toggle("open");
   }
 
-document.body.style.zoom="85%"
+document.body.style.zoom="85%";
